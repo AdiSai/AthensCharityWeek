@@ -1,0 +1,8 @@
+{
+  "name": "athens-charity-week",
+  "app_id": "16c7e010",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
